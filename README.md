@@ -2,9 +2,9 @@
 Task Reaper is a Console Based CPP application that features baseline To-Do App incorporating basic to intermediate features. This is intended to be a semester project for Air University Islamabad.
 
 # Team
-Soban Farooq - 241843 (Lead)
-Shahrukh Kaleem - 241828
-Haider - 241849
+**Soban Farooq** - 241843 (Lead)
+**Shahrukh Kaleem** - 241828
+**Haider** - 241849
 
 ## Overview
 
