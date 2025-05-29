@@ -313,16 +313,16 @@ Login/Register → Main Menu → Feature Selection → User Input → Result Dis
 
 ### Required Headers
 ```cpp
-#include      // I/O operations
-#include        // Dynamic arrays
-#include        // String handling
-#include       // File operations
-#include       // String streams
-#include       // I/O formatting
-#include     // STL algorithms
-#include           // Key-value storage
-#include         // Date/time functions
-#include         // Regular expressions
+#include <iostream>     // I/O operations
+#include <vector>       // Dynamic arrays
+#include <string>       // String handling
+#include <fstream>      // File operations
+#include <sstream>      // String streams
+#include <iomanip>      // I/O formatting
+#include <algorithm>    // STL algorithms
+#include <map>          // Key-value storage
+#include <ctime>        // Date/time functions
+#include <regex>        // Regular expressions
 ```
 
 ### Compilation Command
